@@ -1,4 +1,4 @@
-## Coffee Shop Sales Analysis
+## Coffee Shop Sales Analysis(not completet project)
 This repository contains the analysis of sales data for a coffee shop. The dataset includes detailed information about individual transactions, product sales, and store performance. The dataset has 11 columns and 149,116 rows, capturing sales data from various stores and product categories.
 
 - DATA SOURCE https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
